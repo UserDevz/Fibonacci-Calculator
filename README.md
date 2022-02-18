@@ -5,8 +5,8 @@
 
 <h2>Instalação:</h2>
 
-    git clone https://github.com/UserDevz/Fibonacci
-    cd fibonacci
+    git clone https://github.com/UserDevz/Fibonacci-Calculator
+    cd Fibonacci-Calculator
     python fib.py
 
 <li>Sobre números Fibonacci: https://pt.m.wikipedia.org/wiki/Sequ%C3%AAncia_de_Fibonacci
